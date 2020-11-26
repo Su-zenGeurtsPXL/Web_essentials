@@ -6,19 +6,28 @@ header {
     text-align: center;
     color: #f8f803;
 }
-
-.floating\.box {
+main {
+    left: auto;
+    right: auto;
+}
+div {
     padding: 5px;
     border: 3px solid #f8f803;
     border-radius: 10px;
-    width: 600px;
     float: left;
-    width: 25%;
-    margin: 5px;
+    text-align: center;
+    width: 10vw;
+
     min-width: 200px;
+    margin: 5px;
     box-sizing: border-box;
 }
 
+img {
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 100px;
+}
 audio {
     width: 100%;
 }

@@ -1,0 +1,40 @@
+/*
+Maak een webpagina die zich automatisch aanpast aan de venstergrootte van het device.
+Hoe groter de display is, hoe groter de knoppen moeten weergegeven worden.
+De knoppen op de pagina moeten in elke schermgrootte vierkant zijn. Gebruik hiervoor vw en vh eenheden. Zoek op hoe je deze kan gebruiken.
+De footer onderaan de pagina moet altijd zichtbaar zijn, waar je ook naar scrolt.
+Het resultaat moet er ongeveer als volgt uitzien:
+ */
+
+body {
+    background-color: #fbd1a2;
+    color: #1b5fb7;
+    font-family: Roboto, "sans-serif";
+}
+header {
+    text-align: center;
+}
+
+div {
+    background-color: #07c1c4;
+    margin: 10px;
+    float: left;
+    height: 10vw;
+    width: 10vw;
+    margin: 10px;
+}
+
+footer {
+    background-color: #f79256;
+    text-align: center;
+    font-size: 30%;
+    position: fixed;
+    clear: both;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+}
+
+div:hover {
+    background-color: #7dcfb6;
+}

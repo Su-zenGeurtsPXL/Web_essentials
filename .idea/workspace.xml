@@ -20,16 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82de2be4-1937-4d8d-839a-53764fd67e78" name="Default Changelist" comment="Deleted vb2.html">
-      <change afterPath="$PROJECT_DIR$/.idea/Web_essentials.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 8-9/oefening 1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 8-9/oefening 1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week 4/oefening 4.html" beforeDir="false" afterPath="$PROJECT_DIR$/week 4/oefening 4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week 4/oefening4.css" beforeDir="false" afterPath="$PROJECT_DIR$/week 4/oefening4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 8-9/oefening 3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 8-9/oefening 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 8-9/oefening_tekst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week 8-9/oefening 1.css" beforeDir="false" afterPath="$PROJECT_DIR$/week 8-9/oefening 1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week 8-9/oefening 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/week 8-9/oefening 1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,29 +56,29 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.oefening 3.html">
-    <configuration name="oefening 1.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web_essentials/week 8-9/oefening 1.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.oefening 3.html (1)">
+    <configuration name="oefening 1.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web_essentials/week 4/oefening 1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="oefening 1.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web_essentials/week 4/oefening 1.html" useBuiltInWebServerPort="true">
+    <configuration name="oefening 1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/Web_essentials/week 8-9/oefening 1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="oefening 3.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/Web_essentials/week 8-9/oefening 3.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="oefening 3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web_essentials/week 4/oefening 3.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="oefening 4.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web_essentials/week 4/oefening 4.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="test.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web_essentials/test/test.html" useBuiltInWebServerPort="true">
+    <configuration name="oefening 4.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/Web_essentials/week 7/oefening 4.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.oefening 3.html (1)" />
+        <item itemvalue="JavaScript Debug.oefening 1.html" />
+        <item itemvalue="JavaScript Debug.oefening 4.html (1)" />
         <item itemvalue="JavaScript Debug.oefening 3.html" />
         <item itemvalue="JavaScript Debug.oefening 1.html (2)" />
-        <item itemvalue="JavaScript Debug.test.html" />
-        <item itemvalue="JavaScript Debug.oefening 1.html (1)" />
-        <item itemvalue="JavaScript Debug.oefening 4.html" />
       </list>
     </recent_temporary>
   </component>
@@ -97,6 +93,8 @@
       <workItem from="1606141427184" duration="55000" />
       <workItem from="1606141510399" duration="943000" />
       <workItem from="1606160076499" duration="7159000" />
+      <workItem from="1606203564912" duration="649000" />
+      <workItem from="1606330413560" duration="7318000" />
     </task>
     <task id="LOCAL-00001" summary="Deleted vb2.html">
       <created>1606143392440</created>
@@ -105,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606143392440</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Bezig met week 9">
+      <created>1606203606602</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606203606602</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,20 +131,22 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Deleted vb2.html" />
     <MESSAGE value="Added oefening 1.html (week 8-9)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added oefening 1.html (week 8-9)" />
+    <MESSAGE value="Bezig met week 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bezig met week 9" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="717" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606160180644">
+    <state x="717" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606346510140">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="717" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1606160180644" />
+    <state x="717" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1606346510140" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1606141480547">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1606141480547" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1606143401245">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1606203611662">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1606143401245" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606203611662" />
   </component>
 </project>

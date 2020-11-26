@@ -1,0 +1,13 @@
+OEF1: Zorg er voor dat de blokjes meegroeien met de totale breedte van het browservenster.
+
+OEF3: Maak een webpagina die zich automatisch aanpast aan de venstergrootte van het device.
+                Hoe groter de display is, hoe groter de knoppen moeten weergegeven worden.
+
+Bouw onderstaande website na.
+
+Hou rekening met volgende puntjes:
+● Gebruik een drijvende opmaak (float)
+● Maak gebruik van structuurelementen
+● Gebruik verschillende CSS selectors, zodat je ze allemaal leert gebruiken
+● Zoek zelf een kleurcombinatie
+2
