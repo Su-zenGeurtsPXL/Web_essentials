@@ -1,0 +1,38 @@
+body {
+    background-color: #00007a;
+}
+
+h1 {
+    text-align: center;
+    color: #f8f803;
+}
+
+article {
+    padding: 5px;
+    border: 3px solid #f8f803;
+    border-radius: 10px;
+    float: left;
+    text-align: center;
+    width: 10vw;
+    min-width: 200px;
+    margin: 5px;
+    box-sizing: border-box;
+}
+
+article img {
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 100px;
+}
+audio {
+    width: 100%;
+}
+
+#leeg_element {
+    clear: both;
+}
+
+article:hover {
+    background: #8daec6;
+}
+

@@ -1,0 +1,43 @@
+/*
+Achtergrondkleur gehele pagina: #d9ddd7
+Lettertype gehele pagina: Verdana, sans-serif.
+Tekstkleur h1: donkergroen (#008000).
+Achtergrondkleur paragrafen: #6a7689.
+Tekstkleur paragrafen: #ffffff.
+Padding paragrafen: 20px.
+*/
+
+body {
+    background-color: #d9ddd7;
+    font-family: Verdana, sans-serif;
+}
+h1 {
+    color: #008000;
+}
+
+p {
+    background-color: #6a7689;
+    color: #ffffff;
+    padding: 20px;
+}
+
+/*
+Tekstkleur: geel (gebruik de kleurnaam).
+Kader/rand: volle, gele lijn van 2px dikte.
+Marge: aan de linkerkant en rechterkant 20%, aan de bovenkant en onderkant ongewijzigd.
+Tekstuitlijning: gecentreerd.
+ */
+#highlight {
+    color: yellow;
+    border: 2px yellow solid;
+    margin: 20px 100px 20px 100px;
+    text-align: center;
+}
+
+a:link {
+    color:#ffffff;
+}
+
+a:hover {
+    color:#6df469;
+}

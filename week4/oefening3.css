@@ -1,0 +1,93 @@
+/*
+○ Kies zelf een tof lettertype en stel het in voor de hele pagina.
+○ Ga aan de slag met tekstkleuren en achtergrondkleuren.
+○ Zorg dat de lettergrootte verandert wanneer je met je muis over een link hovert.
+	Voeg ook andere opmaak toe bij het hoveren over een link.
+○ Pas de linken onder Festivals aan, zodat ze op knoppen gaan lijken.
+○ Geef de elementen die de festivals voorstellen allemaal een border,
+	een padding en een margin.
+○ Geef de elementen die de festivals voorstellen allemaal een unieke id.
+	Gebruik deze id’s om elk festival een andere achtergrondkleur te geven.
+○ Pas de opsommingstekens aan die bij de albumlijst gebruikt worden.
+
+Zoek en download hiervoor een muziek gerelateerd icoontje op IconFinder.
+Download het icoontje en plaats het in de map assets.
+Gebruik het icoontje als opsommingsteken op je webpagina.
+ */
+
+body {
+    font-family: "Handy Andy", Verdana;
+    background: #ffffff;
+}
+
+h1 {
+    font-family: "Happy Milk", "Times New Roman";
+    border: 2px black solid;
+    color: #C90EFF;
+}
+
+h2 {
+    color: deeppink;
+    font-family: "Happy Day at School", "Times New Roman";
+}
+
+h3 {
+    font-weight: bold;
+}
+
+p {
+   color: #474545;
+}
+
+#knop {
+    border: 2px grey outset;
+    padding: 25px;
+    display: inline-block;
+}
+
+a:hover {
+    color: red;
+    font-size: larger;
+}
+
+section {
+    border: 2px black double;
+    margin: 25px;
+}
+
+#pukkelpop {
+    background: #F9E79F;
+}
+
+#rockwerchter {
+    background: #ABEBC6;
+}
+#tomorrowland {
+    background: #AED6F1;
+}
+#graspop {
+    background: #D2B4DE;
+}
+#dour {
+    background: #F5B7B1;
+}
+
+#vinkjes {
+    list-style-image: url("../assets/muziek_klein.png");
+
+}
+
+#perception {
+  width: 175px;
+    height: auto;
+}
+
+#twas {
+    width: 175px;
+    height: auto;
+}
+
+#top {
+    width: 175px;
+    height: auto;
+}
