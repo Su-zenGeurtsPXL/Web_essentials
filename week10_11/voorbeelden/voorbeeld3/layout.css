@@ -1,0 +1,49 @@
+body{
+    width: 1200px;
+    margin: auto;
+}
+
+article, header{
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid gray;
+    border-radius: 10px;
+}
+
+header h1{
+    text-align: center;
+}
+
+.row{
+    clear: both;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.element{
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+
+.width1{ width: 33.33%  }
+.width2{ width: 66.66%  }
+.width3{ width: 100%  }
+
+@media screen and (max-width: 1200px) {
+    body{
+        width:100%;
+    }
+
+@media screen and (max-width: 780px) {
+    .element{
+        float:none;
+    }
+    .width1, .width2, .width3{
+        width:100%;
+    }
+}
+
+
+
