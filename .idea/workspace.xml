@@ -21,21 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="82de2be4-1937-4d8d-839a-53764fd67e78" name="Default Changelist" comment="Deleted vb2.html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week10_11/oefeningen/oefening1_start.css" beforeDir="false" afterPath="$PROJECT_DIR$/week10_11/oefeningen/oefening1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week10_11/oefeningen/oefening1_start.html" beforeDir="false" afterPath="$PROJECT_DIR$/week10_11/oefeningen/oefening1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week7/oefeningen/audi.css" beforeDir="false" afterPath="$PROJECT_DIR$/week7_9/oefeningen/audi.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week7/oefeningen/audi.html" beforeDir="false" afterPath="$PROJECT_DIR$/week7_9/oefeningen/audi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week7/oefeningen/buttons.css" beforeDir="false" afterPath="$PROJECT_DIR$/week7_9/oefeningen/buttons.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week7/oefeningen/buttons.html" beforeDir="false" afterPath="$PROJECT_DIR$/week7_9/oefeningen/buttons.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week7/oefeningen/emulator.css" beforeDir="false" afterPath="$PROJECT_DIR$/week7_9/oefeningen/emulator.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week7/oefeningen/navigatie.css" beforeDir="false" afterPath="$PROJECT_DIR$/week7_9/oefeningen/navigatie.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week7/oefeningen/navigatie.html" beforeDir="false" afterPath="$PROJECT_DIR$/week7_9/oefeningen/navigatie.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week7/oefeningen/screen.html" beforeDir="false" afterPath="$PROJECT_DIR$/week7_9/oefeningen/screen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week7/oefeningen/smartphone.html" beforeDir="false" afterPath="$PROJECT_DIR$/week7_9/oefeningen/smartphone.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week7/oefeningen/soundboard.css" beforeDir="false" afterPath="$PROJECT_DIR$/week7_9/oefeningen/soundboard.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week7/oefeningen/soundboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/week7_9/oefeningen/soundboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week7/selfreview/fixed.css" beforeDir="false" afterPath="$PROJECT_DIR$/week7_9/selfreview/fixed.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week7/selfreview/fixed.html" beforeDir="false" afterPath="$PROJECT_DIR$/week7_9/selfreview/fixed.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week10_11/oefeningen/oefening1.css" beforeDir="false" afterPath="$PROJECT_DIR$/week10_11/oefeningen/oefening1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week10_11/oefeningen/oefening1.html" beforeDir="false" afterPath="$PROJECT_DIR$/week10_11/oefeningen/oefening1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,21 +55,21 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Su-zen Geurts\Web_essentials\week10_11\oefeningen" />
+      <recent name="C:\Users\Su-zen Geurts\Web_essentials\week10_11\voorbeelden" />
       <recent name="C:\Users\Su-zen Geurts\Web_essentials\assets" />
+      <recent name="C:\Users\Su-zen Geurts\Web_essentials\week10_11\oefeningen" />
       <recent name="C:\Users\Su-zen Geurts\Web_essentials\week11" />
       <recent name="C:\Users\Su-zen Geurts\Web_essentials\week7\oefeningen" />
-      <recent name="C:\Users\Su-zen Geurts\Web_essentials\week7\selfreview" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.soundboard.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.oefening1.html">
     <configuration name="audi.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web_essentials/week7_9/oefeningen/audi.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="buttons.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web_essentials/week7_9/oefeningen/buttons.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="mijnmuziek.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web_essentials/week3_4/oefeningen/mijnmuziek.html" useBuiltInWebServerPort="true">
+    <configuration name="oefening1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web_essentials/week10_11/oefeningen/oefening1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="soundboard.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web_essentials/week7_9/oefeningen/soundboard.html" useBuiltInWebServerPort="true">
@@ -93,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.oefening1.html" />
+        <item itemvalue="JavaScript Debug.audi.html" />
         <item itemvalue="JavaScript Debug.soundboard.html (1)" />
         <item itemvalue="JavaScript Debug.buttons.html" />
-        <item itemvalue="JavaScript Debug.audi.html" />
         <item itemvalue="JavaScript Debug.soundboard.html" />
-        <item itemvalue="JavaScript Debug.mijnmuziek.html" />
       </list>
     </recent_temporary>
   </component>
@@ -116,7 +103,7 @@
       <workItem from="1606330413560" duration="12982000" />
       <workItem from="1606380985707" duration="13044000" />
       <workItem from="1606416804790" duration="374000" />
-      <workItem from="1606912729833" duration="2350000" />
+      <workItem from="1606912729833" duration="2653000" />
     </task>
     <task id="LOCAL-00001" summary="Deleted vb2.html">
       <created>1606143392440</created>
@@ -160,7 +147,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606914767759</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added assets and examples">
+      <created>1606915380009</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606915380009</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added assets and examples">
+      <created>1606915393166</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606915393166</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,7 +187,8 @@
     <MESSAGE value="Updated oefening 2.html en oefening 2.css" />
     <MESSAGE value="Oefeningen van week 9 gemaakt en naamwijziging van mappen" />
     <MESSAGE value="Naamwijzigingen, added assets" />
-    <option name="LAST_COMMIT_MESSAGE" value="Naamwijzigingen, added assets" />
+    <MESSAGE value="added assets and examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="added assets and examples" />
   </component>
   <component name="WindowStateProjectService">
     <state x="717" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606346510140">
@@ -198,10 +200,10 @@
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1606913473683" />
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606913118450" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1606914772124">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1606915397264">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1606914772124" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1606915397264" />
     <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606203611662" />
     <state x="92" y="92" width="1736" height="856" key="dock-window-1" timestamp="1606396950722">
       <screen x="0" y="0" width="1920" height="1040" />
