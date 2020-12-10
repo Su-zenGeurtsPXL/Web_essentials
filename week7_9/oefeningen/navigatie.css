@@ -12,6 +12,7 @@ header {
 }
 
 nav ul {
+    list-style-type: none;
     background-color: #a53920;
     margin: 0;
     padding: 0;
@@ -19,21 +20,21 @@ nav ul {
 }
 
 nav ul li {
-    list-style-type: none;
     float: left;
 }
 
 nav ul li a {
     display: block;
-    padding: 25px;
+    color: #fff;
+    padding: 100px;
     text-decoration: none;
 }
 
 nav ul li a: hover {
-    background-color: ;
+    background-color: #812c18;
 }
 
 nav ul li img {
-    height: 5px;
+    height: 45px;
     margin: 10px 20px;
 }
