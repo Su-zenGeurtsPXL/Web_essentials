@@ -20,96 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82de2be4-1937-4d8d-839a-53764fd67e78" name="Default Changelist" comment="Deleted vb2.html">
-      <change afterPath="$PROJECT_DIR$/assets/persoonlijk/muzieknootje3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3_4_lijsten_media_css/oefeningen/geluidjes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3_4_lijsten_media_css/oefeningen/mijnmuziek.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3_4_lijsten_media_css/oefeningen/mijnmuziek.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3_4_lijsten_media_css/oefeningen/paginametmijnmuziek.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3_4_lijsten_media_css/oefeningen/pxl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3_4_lijsten_media_css/oefeningen/pxl.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3_4_lijsten_media_css/selfreview/display.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3_4_lijsten_media_css/selfreview/display.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3_4_lijsten_media_css/selfreview/selectors.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3_4_lijsten_media_css/selfreview/selectors.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3_4_lijsten_media_css/selfreview/videogame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5_6_tabellen/oefeningen/muziekpagina.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5_6_tabellen/oefeningen/muziekpagina.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5_6_tabellen/oefeningen/puzzel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5_6_tabellen/oefeningen/puzzelt.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week7_9_postitionering/oefeningen/audi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week7_9_postitionering/oefeningen/positionering.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week7_9_postitionering/oefeningen/positionering.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week7_9_postitionering/oefeningen/soundboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week12_13_formulieren/invulmelding.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week12_13_formulieren/standaard_form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week12_13_formulieren/standaard_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week12_13_formulieren/testf.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week12_13_formulieren/testf.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week12_13_formulieren/voorbeelden/j_oef1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week12_13_formulieren/voorbeelden/j_oef1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week12_13_formulieren/voorbeelden/j_oef2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week12_13_formulieren/voorbeelden/j_oef2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week12_13_formulieren/voorbeelden/j_oef3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/badumtss.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/geluidjes/badumtss.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/badumtss.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/assets/geluidjes/badumtss.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/badumtss.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/geluidjes/badumtss.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/buzzer.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/assets/geluidjes/buzzer.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/buzzer.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/geluidjes/buzzer.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/doorbell.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/assets/geluidjes/doorbell.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/doorbell.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/geluidjes/doorbell.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/fart.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/assets/geluidjes/fart.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/fart.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/geluidjes/fart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/muziek.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/persoonlijk/muziek_klein.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week10_11/oefeningen/oefening1.css" beforeDir="false" afterPath="$PROJECT_DIR$/week10_11_responsivedesign/oefeningen/oefening1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week10_11/oefeningen/oefening1.html" beforeDir="false" afterPath="$PROJECT_DIR$/week10_11_responsivedesign/oefeningen/oefening1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week10_11/oefeningen/oefening2_start.css" beforeDir="false" afterPath="$PROJECT_DIR$/week10_11_responsivedesign/oefeningen/oefening2_start.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week10_11/oefeningen/oefening2_start.html" beforeDir="false" afterPath="$PROJECT_DIR$/week10_11_responsivedesign/oefeningen/oefening2_start.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week10_11/voorbeelden/voorbeeld1/correct/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/week10_11_responsivedesign/voorbeelden/voorbeeld1/correct/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week10_11/voorbeelden/voorbeeld1/correct/voorbeeld.html" beforeDir="false" afterPath="$PROJECT_DIR$/week10_11_responsivedesign/voorbeelden/voorbeeld1/correct/voorbeeld.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week10_11/voorbeelden/voorbeeld1/fout/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/week10_11_responsivedesign/voorbeelden/voorbeeld1/fout/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week10_11/voorbeelden/voorbeeld1/fout/voorbeeld.html" beforeDir="false" afterPath="$PROJECT_DIR$/week10_11_responsivedesign/voorbeelden/voorbeeld1/fout/voorbeeld.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week10_11/voorbeelden/voorbeeld2/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/week10_11_responsivedesign/voorbeelden/voorbeeld2/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week10_11/voorbeelden/voorbeeld2/voorbeeld.html" beforeDir="false" afterPath="$PROJECT_DIR$/week10_11_responsivedesign/voorbeelden/voorbeeld2/voorbeeld.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week10_11/voorbeelden/voorbeeld3/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/week10_11_responsivedesign/voorbeelden/voorbeeld3/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week10_11/voorbeelden/voorbeeld3/voorbeeld.html" beforeDir="false" afterPath="$PROJECT_DIR$/week10_11_responsivedesign/voorbeelden/voorbeeld3/voorbeeld.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week10_11/voorbeelden/voorbeeld4/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/week10_11_responsivedesign/voorbeelden/voorbeeld4/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week10_11/voorbeelden/voorbeeld4/voorbeeld.html" beforeDir="false" afterPath="$PROJECT_DIR$/week10_11_responsivedesign/voorbeelden/voorbeeld4/voorbeeld.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week10_11/voorbeelden/voorbeeld5/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/week10_11_responsivedesign/voorbeelden/voorbeeld5/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week10_11/voorbeelden/voorbeeld5/voorbeeld.html" beforeDir="false" afterPath="$PROJECT_DIR$/week10_11_responsivedesign/voorbeelden/voorbeeld5/voorbeeld.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1_2/oefeningen/hallowereld.html" beforeDir="false" afterPath="$PROJECT_DIR$/week1_2_html/oefeningen/hallowereld.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1_2/oefeningen/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/week1_2_html/oefeningen/layout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1_2/oefeningen/paginametmijnmuziek.html" beforeDir="false" afterPath="$PROJECT_DIR$/week1_2_html/oefeningen/paginametmijnmuziek.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1_2/oefeningen/profiel.html" beforeDir="false" afterPath="$PROJECT_DIR$/week1_2_html/oefeningen/profiel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1_2/oefeningen/structuurelementen.html" beforeDir="false" afterPath="$PROJECT_DIR$/week1_2_html/oefeningen/structuurelementen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1_2/oefeningen/validator.html" beforeDir="false" afterPath="$PROJECT_DIR$/week1_2_html/oefeningen/validator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1_2/onbekend/div.html" beforeDir="false" afterPath="$PROJECT_DIR$/week1_2_html/onbekend/div.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1_2/onbekend/elementen.html" beforeDir="false" afterPath="$PROJECT_DIR$/week1_2_html/onbekend/elementen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1_2/onbekend/valideren.html" beforeDir="false" afterPath="$PROJECT_DIR$/week1_2_html/onbekend/valideren.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1_2/onbekend/voorbeeld.html" beforeDir="false" afterPath="$PROJECT_DIR$/week1_2_html/onbekend/voorbeeld.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1_2/selfreview/elementen.html" beforeDir="false" afterPath="$PROJECT_DIR$/week1_2_html/selfreview/elementen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1_2/selfreview/entiteiten.html" beforeDir="false" afterPath="$PROJECT_DIR$/week1_2_html/selfreview/entiteiten.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1_2/selfreview/jezelf_voorstellen.html" beforeDir="false" afterPath="$PROJECT_DIR$/week1_2_html/selfreview/jezelf_voorstellen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1_2/selfreview/p_em_elementen.html" beforeDir="false" afterPath="$PROJECT_DIR$/week1_2_html/selfreview/p_em_elementen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3_4/oefeningen/mijnmuziek.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3_4/oefeningen/mijnmuziek.html" beforeDir="false" afterPath="$PROJECT_DIR$/week3_4_lijsten_media_css/oefeningen/paginametmijnmuziek.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3_4/oefeningen/pxl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3_4/oefeningen/pxl.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3_4/oefeningen/soundboard.css" beforeDir="false" afterPath="$PROJECT_DIR$/week3_4_lijsten_media_css/oefeningen/geluidjes.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3_4/oefeningen/soundboard.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3_4/oefeningen/youtube.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3_4/selfreview/videogame.css" beforeDir="false" afterPath="$PROJECT_DIR$/week3_4_lijsten_media_css/selfreview/videogame.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3_4/selfreview/videogame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5_6/oefeningen/puntenlijst.css" beforeDir="false" afterPath="$PROJECT_DIR$/week5_6_tabellen/oefeningen/puntenlijst.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5_6/oefeningen/puntenlijst.html" beforeDir="false" afterPath="$PROJECT_DIR$/week5_6_tabellen/oefeningen/puntenlijst.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5_6/oefeningen/schaakspel.css" beforeDir="false" afterPath="$PROJECT_DIR$/week5_6_tabellen/oefeningen/schaakspel.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5_6/oefeningen/schaakspel.html" beforeDir="false" afterPath="$PROJECT_DIR$/week5_6_tabellen/oefeningen/schaakspel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5_6/selfreview/tabellen.css" beforeDir="false" afterPath="$PROJECT_DIR$/week5_6_tabellen/selfreview/tabellen.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5_6/selfreview/tabellen.html" beforeDir="false" afterPath="$PROJECT_DIR$/week5_6_tabellen/selfreview/tabellen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week7_9/oefeningen/audi.css" beforeDir="false" afterPath="$PROJECT_DIR$/week7_9_postitionering/oefeningen/audi.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week7_9/oefeningen/audi.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week7_9/oefeningen/buttons.css" beforeDir="false" afterPath="$PROJECT_DIR$/week7_9_postitionering/oefeningen/buttons.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week7_9/oefeningen/buttons.html" beforeDir="false" afterPath="$PROJECT_DIR$/week7_9_postitionering/oefeningen/buttons.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week7_9/oefeningen/emulator.css" beforeDir="false" afterPath="$PROJECT_DIR$/week7_9_postitionering/oefeningen/emulator.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week7_9/oefeningen/navigatie.css" beforeDir="false" afterPath="$PROJECT_DIR$/week7_9_postitionering/oefeningen/navigatie.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week7_9/oefeningen/navigatie.html" beforeDir="false" afterPath="$PROJECT_DIR$/week7_9_postitionering/oefeningen/navigatie.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week7_9/oefeningen/screen.html" beforeDir="false" afterPath="$PROJECT_DIR$/week7_9_postitionering/oefeningen/screen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week7_9/oefeningen/smartphone.html" beforeDir="false" afterPath="$PROJECT_DIR$/week7_9_postitionering/oefeningen/smartphone.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week7_9/oefeningen/soundboard.css" beforeDir="false" afterPath="$PROJECT_DIR$/week7_9_postitionering/oefeningen/soundboard.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week7_9/oefeningen/soundboard.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week7_9/selfreview/fixed.css" beforeDir="false" afterPath="$PROJECT_DIR$/week7_9_postitionering/selfreview/fixed.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week7_9/selfreview/fixed.html" beforeDir="false" afterPath="$PROJECT_DIR$/week7_9_postitionering/selfreview/fixed.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,8 +40,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -141,42 +62,42 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Su-zen Geurts\Web_essentials\week12_13_formulieren\voorbeelden" />
+      <recent name="C:\Users\Su-zen Geurts\Web_essentials\assets\persoonlijk" />
+      <recent name="C:\Users\Su-zen Geurts\Web_essentials\week1_2\oefeningen" />
+      <recent name="C:\Users\Su-zen Geurts\Web_essentials\week1_2\opdrachten" />
+      <recent name="C:\Users\Su-zen Geurts\Web_essentials\week10_11\voorbeelden" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Su-zen Geurts\Web_essentials\week7_9_postitionering\oefeningen" />
       <recent name="C:\Users\Su-zen Geurts\Web_essentials\week5_6_tabellen\oefeningen" />
       <recent name="C:\Users\Su-zen Geurts\Web_essentials\week3_4\oefeningen" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Su-zen Geurts\Web_essentials\assets\persoonlijk" />
-      <recent name="C:\Users\Su-zen Geurts\Web_essentials\week1_2\oefeningen" />
-      <recent name="C:\Users\Su-zen Geurts\Web_essentials\week1_2\opdrachten" />
-      <recent name="C:\Users\Su-zen Geurts\Web_essentials\week10_11\voorbeelden" />
-      <recent name="C:\Users\Su-zen Geurts\Web_essentials\assets" />
-    </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.test.html (1)">
-    <configuration name="buttons.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web_essentials/week7_9_postitionering/oefeningen/buttons.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.j_oef6.html">
+    <configuration name="j_oef1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web_essentials/week12_13_formulieren/voorbeelden/j_oef1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="navigatie.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web_essentials/week7_9_postitionering/oefeningen/navigatie.html" useBuiltInWebServerPort="true">
+    <configuration name="j_oef2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web_essentials/week12_13_formulieren/voorbeelden/j_oef2.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="positionering.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web_essentials/week7_9_postitionering/oefeningen/positionering.html" useBuiltInWebServerPort="true">
+    <configuration name="j_oef3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web_essentials/week12_13_formulieren/voorbeelden/j_oef3.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="test.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web_essentials/test/test.html" useBuiltInWebServerPort="true">
+    <configuration name="j_oef6.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web_essentials/week12_13_formulieren/voorbeelden/j_oef6.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="test.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web_essentials/week7_9_postitionering/oefeningen/test.html" useBuiltInWebServerPort="true">
+    <configuration name="testf.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web_essentials/week12_13_formulieren/testf.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.test.html (1)" />
-        <item itemvalue="JavaScript Debug.positionering.html" />
-        <item itemvalue="JavaScript Debug.navigatie.html" />
-        <item itemvalue="JavaScript Debug.buttons.html" />
-        <item itemvalue="JavaScript Debug.test.html" />
+        <item itemvalue="JavaScript Debug.j_oef6.html" />
+        <item itemvalue="JavaScript Debug.j_oef3.html" />
+        <item itemvalue="JavaScript Debug.testf.html" />
+        <item itemvalue="JavaScript Debug.j_oef2.html" />
+        <item itemvalue="JavaScript Debug.j_oef1.html" />
       </list>
     </recent_temporary>
   </component>
@@ -208,6 +129,8 @@
       <workItem from="1610298148142" duration="10000" />
       <workItem from="1611919757681" duration="12157000" />
       <workItem from="1612024243244" duration="42221000" />
+      <workItem from="1612233125871" duration="327000" />
+      <workItem from="1612265029340" duration="1336000" />
     </task>
     <task id="LOCAL-00001" summary="Deleted vb2.html">
       <created>1606143392440</created>
@@ -286,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611964953371</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Week 3-9 DONE">
+      <created>1612233240531</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1612233240531</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,7 +246,8 @@
     <MESSAGE value="updated oefening 1 van week 11" />
     <MESSAGE value="Week 10-11 Oef 1 afgewerkt" />
     <MESSAGE value="Week 1-2 DONE" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week 1-2 DONE" />
+    <MESSAGE value="Week 3-9 DONE" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 3-9 DONE" />
   </component>
   <component name="WindowStateProjectService">
     <state x="717" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612207796263">

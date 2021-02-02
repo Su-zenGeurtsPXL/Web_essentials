@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Page Title</title>
+    <link href="standaard_form.css" rel="stylesheet">
+</head>
+<body>
+
+<form action="mailto:lector@pxl.be">
+    <label for="vnaam">Voornaam:</label>
+    <input type="text" name="voornaam" id="vnaam" required/>
+
+    <label for="anaam">Achternaam:</label>
+    <input type="text" name="achternaam" id="anaam" required/>
+
+    <label for="functie">Functie:</label>
+    <select name="functie" id="functie" required>
+        <option value=""></option>
+        <option value="student">student</option>
+        <option value="docent">docent</option>
+        <option value="directeur">directeur</option>
+    </select>
+
+    <label for="bericht">Bericht:</label>
+    <textarea id="bericht" name="message"></textarea>
+
+    <input type="submit" value="verzenden!"/>
+    <input type="reset" value="reset"/>
+</form>
+
+</body>
+</html>

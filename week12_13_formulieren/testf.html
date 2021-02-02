@@ -1,0 +1,34 @@
+<!DOCTYPE HTML>
+<html lang="nl">
+<head>
+    <meta charset="utf-8">
+    <title>oefening2</title>
+    <link rel="stylesheet" href="testf.css">
+</head>
+<body>
+<form action="mailto:suzen.geurts@student.pxl.be"
+      method="post" enctype="text/plain">
+    <label for="identificatie">Identificatie:</label>
+    <input type="text" id="identificatie" name="identificatie"/><br>
+
+    <label for="score">Score:</label>
+    <input type="number" id="score" name="score"/><br>
+
+    <label>Tijdstip:</label>
+    <input type="radio" id="tijdstip" name="tijdstip" value="VM">
+    <label for="tijdstip">VM</label>
+    <input type="radio" id="tijdstip" name="tijdstip" value="NM">
+    <label for="tijdstip">NM</label>
+    <br>
+
+    <label for="opmerking">Opmerking:</label>
+    <input type="text" id="opmerking" name="opmerking"/>
+    <textarea id="opmerking" row="20" name="opmerking" form="opmerking">
+Enter text here...</textarea>
+    <br>
+
+    <label for="submit"></label>
+    <input type="submit" id="submit" value="Verzenden">
+</form>
+</body>
+</html>
