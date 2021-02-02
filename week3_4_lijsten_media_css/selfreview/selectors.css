@@ -1,0 +1,9 @@
+/* tag */
+h1 {
+    color: red;
+}
+
+/* attribuutselector */
+p[id="speciaal"] {
+    background-color: yellow;
+}

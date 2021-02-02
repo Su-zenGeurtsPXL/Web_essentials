@@ -1,0 +1,45 @@
+/* opmaak */
+* {
+    color: #fff;
+    font-family: Arial;
+}
+
+body {
+    background-color: #46211a;
+}
+body {
+    margin: 0px;
+}
+
+header {
+    padding: 5px;
+    margin: 5px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #a53920;
+}
+
+nav ul li {
+    float: left;
+}
+
+nav ul li a {
+    display: block;
+    padding: 25px;
+    color: #fff;
+    text-decoration: none;
+}
+
+nav ul li img {
+    height: 45px;
+    margin: 10px 20px;
+}
+
+nav ul li a: hover {
+    background-color: #812c18;
+}

@@ -1,0 +1,33 @@
+* {
+    font-family: "Roboto Thin";
+    text-align: center;
+    color: #ffffff;
+    font-family: "Roboto Thin", "Calibri Light";
+}
+
+body {
+    width: 1200px;
+}
+
+table {
+    border-collapse: collapse;
+    table-layout: auto;
+    width: 100%;
+}
+
+th, td {
+    border: 2px solid #000000;
+}
+
+thead, tfoot {
+    background: #27426d;
+}
+
+tbody tr:nth-child(even) {
+    background: #4f8cef;
+}
+
+tbody tr:nth-child(odd) {
+    background: #6facff;
+}
+

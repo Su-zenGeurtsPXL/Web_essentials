@@ -1,0 +1,86 @@
+/*
+- lettertype, tekstkleuren en achtergrondkleuren voor hele pagina -DONE-
+- lettergrootte verandert wanneer je met je muis over een link hovert -DONE-
+- andere opmaak bij het hoveren over een link -DONE-
+- de linken Festivals --> op knoppen lijken op buttons -DONE-
+- elementen die de festivals voorstellen --> een border, een padding en een margin -DONE-
+- de elementen die de festivals voorstellen --> een unieke id --> elk festival een andere achtergrondkleur
+- image as bullet (albums) -DONE-
+*/
+body {
+    background-color: #e6f1e6;
+}
+
+* {
+    color: #6df469;
+    font-family: "Handy Andy", Verdana;
+}
+
+img {
+    margin: 5px;
+    padding: 5px;
+    width: 100px;
+    height: 100px;
+}
+
+.albums {
+    list-style-image: url("../../assets/persoonlijk/muzieknootje3.png");
+}
+
+.festivals ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+.festivals li {
+    display: inline-block;
+    border: outset #6df469 1px;
+    border-radius: 5px;
+    list-style: none;
+    padding: 5px;
+    margin: 5px;
+}
+
+a:hover {
+    font-size: 1.4em;
+    color: darkred;
+}
+
+#pukkelpop, #pukkelpop+nav {
+    border: solid black 2px;
+    margin: 5px;
+    padding: 5px;
+    background-color: deeppink;
+}
+
+#rockwerchter {
+    border: solid black 2px;
+    margin: 5px;
+    padding: 5px;
+    background-color: deepskyblue;
+}
+
+#tomorrowland {
+    border: solid black 2px;
+    margin: 5px;
+    padding: 5px;
+    background-color: limegreen;
+}
+
+#graspop {
+    border: solid black 2px;
+    margin: 5px;
+    padding: 5px;
+    background-color: darkslategrey;
+}
+
+#dour {
+    border: solid black 2px;
+    margin: 5px;
+    padding: 5px;
+    background-color: purple;
+}
+
+#dour, #graspop {
+    color: #fff;
+}

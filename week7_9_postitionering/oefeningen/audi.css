@@ -1,0 +1,113 @@
+/* opmaak */
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #6d8580;
+}
+
+header h1, header p, nav h1 {
+    color: #fff;
+}
+
+h1{
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 16px;
+}
+
+p {
+    font-size: 14px;
+}
+
+/*  positionering */
+#container {
+    margin: 0 auto;
+    width: 925px;
+}
+
+figure {
+    float: left;
+    margin: 10px;
+    padding: 0;
+    border: 1px solid #000;
+}
+
+figure img {
+    display: block;
+    height: 170px;
+    width: 333px;
+}
+
+header {
+    float: left;
+    background-color: #638d88;
+    border: 1px solid #000;
+    height: 140px;
+    width: 510px;
+    padding: 15px;
+    margin: 10px;
+}
+
+nav {
+    float: left;
+    background-color: #638d88;
+    border: 1px solid #000;
+    height: 500px;
+    width: 123px;
+    padding: 15px;
+    margin: 10px;
+}
+
+nav ul {
+    padding-left: 0;
+    list-style-type: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    line-height: 25px;
+}
+
+nav ul li a.active, nav ul li a:hover {
+    font-weight: bold;
+    font-style: italic;
+}
+
+main {
+    float: right;
+    background-color: #bfd1ce;
+    border: 1px solid #000;
+    height: 500px;
+    width: 690px;
+    padding: 15px;
+    margin: 10px;
+}
+
+main img {
+    width: 200px;
+}
+
+main img.imgleft {
+    float: left;
+    margin: 0 30px 30px 30px ;
+
+}
+
+main img.imgright {
+    float: right;
+    clear: right;
+    margin: 0 30px 30px 30px ;
+}
+
+main h2.textleft {
+    clear: right;
+}
+
+main h2.textright {
+    clear: left;
+}

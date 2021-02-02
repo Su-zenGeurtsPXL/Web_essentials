@@ -1,0 +1,32 @@
+body {
+    background-color: #151c28;
+}
+
+header {
+    text-align: center;
+    color: #ffe14f;
+}
+
+article {
+    float: left;
+    text-align: center;
+    border: 3px solid #f8f803;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    min-width: 200px;
+    width: 24%;
+    box-sizing: border-box;
+}
+
+img {
+    height: 120px;
+}
+
+audio {
+    width: 100%;
+}
+
+article:hover {
+    background-color: #8daec6;
+}
